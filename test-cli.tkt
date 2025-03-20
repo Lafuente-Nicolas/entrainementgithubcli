@@ -7,4 +7,4 @@ gh repo clone utilisateur/nom-du-repo
 cd nom de la branche 
 (mettre le fichier)
 git add 
-…..    (gh repo create)
+…..    
