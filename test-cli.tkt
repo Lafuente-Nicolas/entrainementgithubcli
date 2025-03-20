@@ -1,1 +1,10 @@
 Entrainement git-hub CLI
+
+Git-hub cli : 
+(gh repo create) 
+gh repo create nom-du-repo –public
+gh repo clone utilisateur/nom-du-repo
+cd nom de la branche 
+(mettre le fichier)
+git add 
+…..    (gh repo create)
